@@ -14,8 +14,7 @@ public class Menu {
     private Scanner scanner;
 
     public Menu(Trip initialTrip) {
-        this.currentTrip = initialTrip;
-        this.scanner = new Scanner(System.in);
+        this.currentTrip = null;
     }
 
     public void run() {

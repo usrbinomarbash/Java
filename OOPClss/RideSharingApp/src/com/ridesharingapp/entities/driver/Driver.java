@@ -37,7 +37,7 @@ public class Driver {
         isAvailable = available;
     }
 
-    public Boolean getIsAvailable(){
+    public Boolean isAvailable(){
         return isAvailable;
     }
     @Override

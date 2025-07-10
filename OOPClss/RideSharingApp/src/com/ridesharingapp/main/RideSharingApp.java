@@ -6,7 +6,7 @@ import com.ridesharingapp.entities.vehicle.Vehicle;
 import com.ridesharingapp.entities.trip.Trip;
 import com.ridesharingapp.entities.tripstatus.TripStatus;
 
-import java.awt.*;
+
 import java.time.LocalDateTime;
 
 public class RideSharingApp {
